@@ -7,7 +7,7 @@ Step
 <img width="527" height="258" alt="image" src="https://github.com/user-attachments/assets/0d712494-29de-4d67-9b96-a735ac2afe9f" />
 
 Instructions for moving the verify file :
-1. COPY ALL THE FILES IN MY GITHUB REPOSITORY [Xelvryn](https://github.com/Xelvryn/Denuvo-Firtt-Run-Assasin-s-Creed-Mirage).
+1. COPY ALL THE FILES IN MY GITHUB REPOSITORY [Xelvryn](https://github.com/Xelvryn/Denuvo-Firtt-Run-Assasin-s-Creed-Mirage/releases).
 2. PASTE IN THE POSITION OF THE GAME FILE
 
 
